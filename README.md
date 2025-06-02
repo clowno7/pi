@@ -38,7 +38,7 @@ detect/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/clowno7/Gender-and-Age-detection.git
+git clone https://github.com/Giridhar-07/Gender-and-Age-detection.git
 cd gender-age-detection/detect
 ```
 
